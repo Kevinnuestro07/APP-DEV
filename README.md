@@ -1,3 +1,3 @@
 # APP-DEV
-My First Repositroy
+My First Repository
 This is my first repository in my life
